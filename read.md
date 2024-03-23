@@ -22,7 +22,7 @@ for tracking everything
 `git add .`
 
 Putting commit/finalising version of code
-`git commit -a <"commit-message">`
+`git commit -m <"commit-message">`
 
 Pushing code to github
 `git push`
