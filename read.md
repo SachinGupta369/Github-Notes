@@ -24,7 +24,7 @@ for tracking everything
 Putting commit/finalising version of code
 `git commit -m <"commit-message">`
 
-How to push code to a specific Repository using Link
+How to push code to a specific Repository using Link                       
 `git remote add origin https://github.com/<username>/<repository-name>.git`
 `git remote add origin https://github.com/SachinGupta369/j.git`
 

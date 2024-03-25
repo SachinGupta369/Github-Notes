@@ -1,2 +1,1 @@
 This is testing and practices for `branch2.txt`
-
