@@ -22,12 +22,17 @@ for tracking everything
 `git add .`
 
 Putting commit/finalising version of code
-`git commit -a <"commit-message">`
+`git commit -m <"commit-message">`
+
+How to push code to a specific Repository using Link
+`git remote add origin https://github.com/<username>/<repository-name>.git`
+`git remote add origin https://github.com/SachinGupta369/j.git`
+
+How to push the file to current branch and set the remote as upstream
+`git push --set-upstream origin <branch-name>`
 
 Pushing code to github
 `git push`
-
-Upstream mean
 
 How to remove a file
 `git rm <file-name>`
